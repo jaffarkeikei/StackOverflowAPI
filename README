@@ -1,0 +1,24 @@
+# StackExchange API
+
+This repository contains my practice code for consuming the StackExchange API, focusing on StackOverflow.
+
+## Overview
+
+The goal of this project is to understand how to interact with the StackExchange API, perform queries, and process responses.
+
+## Usage
+
+This project is a collection of scripts/examples showing how to call various endpoints of the StackExchange API. To run an example, simply execute the script from your terminal.
+
+## Learning Resources
+
+- StackExchange API Documentation: [https://api.stackexchange.com/docs](https://api.stackexchange.com/docs)
+- Postman for API testing: [https://www.postman.com/](https://www.postman.com/)
+
+## Contributing
+
+Feel free to fork this repository and experiment with your own API calls. Contributions are welcome!
+
+## License
+
+This project is open-sourced under the MIT License.
