@@ -14,7 +14,6 @@ To further explore the data returned by the API, one might consider enhancing th
 
 
 import requests
-import json
 
 
 STACKEXCHANGE_API_URL = 'https://api.stackexchange.com/2.3/questions?order=desc&sort=activity&site=stackoverflow'
